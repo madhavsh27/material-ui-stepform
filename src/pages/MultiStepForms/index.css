@@ -1,0 +1,8 @@
+body {
+  background-color: rgb(10 25 41);
+}
+
+.password-section form{
+  width: 100%;
+   display:flex;
+}
